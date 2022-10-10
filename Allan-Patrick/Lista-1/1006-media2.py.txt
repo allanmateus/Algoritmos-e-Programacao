@@ -1,0 +1,17 @@
+# URL do enunciado
+# httpswww.beecrowd.com.brrepositoryUOJ_1006.html
+
+A = float(input())
+
+B = float(input())
+
+C = float(input())
+
+PESO_A = 2
+
+PESO_B = 3
+
+PESO_C = 5
+
+MEDIA = float(((A * PESO_A) + (B * PESO_B) + (C * PESO_C)) / (PESO_A + PESO_B + PESO_C))
+print("MEDIA = %.1f" %(MEDIA))

@@ -1,0 +1,10 @@
+# URL do enunciado
+# httpswww.beecrowd.com.brrepositoryUOJ_1004.html
+
+VALOR1 = int(input())
+
+VALOR2 = int(input())
+PROD = VALOR1 * VALOR2
+
+
+print("PROD = %i" %(PROD))

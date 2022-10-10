@@ -1,0 +1,4 @@
+# URL do enunciado
+# httpswww.beecrowd.com.brrepositoryUOJ_1000.html
+
+print("Hello World!")

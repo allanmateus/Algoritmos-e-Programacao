@@ -1,0 +1,12 @@
+# URL do enunciado
+# httpswww.beecrowd.com.brrepositoryUOJ_1005.html
+
+NOTA1 = float(input())
+
+NOTA2 = float(input())
+
+PESO1 = 3.5
+
+PESO2 = 7.5
+
+MEDIA = float(((NOTA1 * PESO1) + (NOTA2 * PESO2)) / (PESO1 + PESO2))
